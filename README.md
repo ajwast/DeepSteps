@@ -1,5 +1,7 @@
 # DeepSteps
 
+![Deep Steps](DS-UI.png)
+
 A stand alone MIDI step sequencer application with an integrated, user-trainable generative neural network.
 
 It was created by Alex Wasatnidge as part of their Master's thesis for the Music, Communication and Technology programme at the University of Oslo.
